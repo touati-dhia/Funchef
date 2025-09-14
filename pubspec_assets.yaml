@@ -1,0 +1,10 @@
+flutter:
+  assets:
+    - assets/lottie/banana.json
+    - assets/lottie/egg.json
+    - assets/lottie/mix.json
+    - assets/lottie/oven.json
+    - assets/sounds/mash.mp3
+    - assets/sounds/crack.mp3
+    - assets/sounds/mix.mp3
+    - assets/sounds/ding.mp3

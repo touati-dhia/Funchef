@@ -1,0 +1,24 @@
+name: funchef
+description: A toddler-friendly interactive recipe app with animations and sounds.
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  lottie: ^3.1.0
+  audioplayers: ^6.0.0
+  confetti: ^0.7.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/lottie/banana.json
+    - assets/lottie/egg.json
+    - assets/lottie/mix.json
+    - assets/lottie/oven.json
+    - assets/sounds/mash.mp3
+    - assets/sounds/crack.mp3
+    - assets/sounds/mix.mp3
+    - assets/sounds/ding.mp3
