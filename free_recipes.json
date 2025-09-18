@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Banana Bread",
+    "ingredients": [
+      {
+        "name": "Banana",
+        "imageUrl": "https://api.iconify.design/noto:banana.svg"
+      },
+      {
+        "name": "Flour",
+        "imageUrl": "https://api.iconify.design/noto:baguette-bread.svg"
+      },
+      {
+        "name": "Egg",
+        "imageUrl": "https://api.iconify.design/noto:egg.svg"
+      }
+    ],
+    "steps": [
+      {
+        "instruction": "Mash the bananas",
+        "imageUrl": "https://via.placeholder.com/512?text=mash"
+      },
+      {
+        "instruction": "Mix flour and eggs",
+        "imageUrl": "https://via.placeholder.com/512?text=mix"
+      },
+      {
+        "instruction": "Bake for 45 minutes",
+        "imageUrl": "https://via.placeholder.com/512?text=bake"
+      }
+    ]
+  }
+]

@@ -1,13 +1,6 @@
 class RecipeStep {
   final String instruction;
-  final String? imageUrl;
-  final String? lottieAsset;
-  final String? soundAsset;
+  final String imageUrl; // DALL·E image URL
 
-  RecipeStep({
-    required this.instruction,
-    this.imageUrl,
-    this.lottieAsset,
-    this.soundAsset,
-  });
+  RecipeStep({required this.instruction, required this.imageUrl});
 }
